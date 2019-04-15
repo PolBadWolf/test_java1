@@ -8,5 +8,13 @@
     <artifactId>remote_server1</artifactId>
     <version>1.0</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>ru.pol.doctor4</groupId>
+            <artifactId>interface1</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
