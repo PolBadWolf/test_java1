@@ -10,9 +10,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>ru.pol.doctor4</groupId>
-            <artifactId>interface1</artifactId>
-            <version>1.0</version>
+            <groupId>ru.pol.doctor4.test.interfaces</groupId>
+            <artifactId>RemoteInterface1.1</artifactId>
+            <version>1.1</version>
         </dependency>
     </dependencies>
 
